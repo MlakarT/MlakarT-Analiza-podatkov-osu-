@@ -1,4 +1,4 @@
-import re, orodja
+import re, orodja   
 file = 'osu_index.txt'
 aux_file = 'data-auxf.txt'
 page = 'https://osu.ppy.sh/beatmapsets?sort=difficulty_desc&s=ranked'

@@ -128,5 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Things i added myself
 osu_index.txt
 data-auxf.txt
+data_capture.py
+data.json
